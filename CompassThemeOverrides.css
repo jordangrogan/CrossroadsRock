@@ -70,3 +70,12 @@ header.page .header-content {
     // padding: 100px 15px 100px;
     padding: 50px 15px 50px;
 }
+
+.btn {
+    border-radius: 6px;
+    padding: 10px 25px;
+}
+
+.btn-default {
+    background-color: #dde4e8;
+}
