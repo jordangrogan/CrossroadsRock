@@ -67,7 +67,6 @@ body, h1, h2, h3, h4, h5, .btn, .navbar-default {
 }
 
 header.page .header-content {
-    // padding: 100px 15px 100px;
     padding: 50px 15px 50px;
 }
 
@@ -78,4 +77,8 @@ header.page .header-content {
 
 .btn-default {
     background-color: #dde4e8;
+}
+
+h1 {
+    font-weight: 700;
 }
