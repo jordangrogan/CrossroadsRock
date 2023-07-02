@@ -27,6 +27,18 @@ body, h1, h2, h3, h4, h5, .btn, .navbar-default {
     font-family: 'Avenir Next XR','OpenSans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+body, h1, h2, h3, h4, h5 {
+    color: #333;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.list-unstyled {
+    margin-left: 0;
+}
+
 .navbar-default {
     background: #007da9 !important;
 }
@@ -77,8 +89,4 @@ header.page .header-content {
 
 .btn-default {
     background-color: #dde4e8;
-}
-
-h1 {
-    font-weight: 700;
 }
