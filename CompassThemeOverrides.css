@@ -90,3 +90,24 @@ header.page .header-content {
 .btn-default {
     background-color: #dde4e8;
 }
+
+.updateprogress-status {
+    background-color: #007da9;
+}
+
+.actions {
+    margin-bottom: 40px;
+}
+
+.panel-default>.panel-heading {
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16px;
+    background-color: #007da9;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #FFFF;
+    background-color: #007da9;
+    font-weight: bold;
+}
