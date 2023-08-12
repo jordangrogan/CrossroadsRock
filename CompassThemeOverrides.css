@@ -107,7 +107,7 @@ header.page .header-content {
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-    color: #FFFF;
+    color: #FFFFFF;
     background-color: #007da9;
     font-weight: bold;
 }
